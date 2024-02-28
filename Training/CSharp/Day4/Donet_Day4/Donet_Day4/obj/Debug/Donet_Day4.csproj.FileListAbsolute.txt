@@ -1,0 +1,2 @@
+D:\Infinite\Training\CSharp\Day4\Donet_Day4\Donet_Day4\obj\Debug\Donet_Day4.csproj.AssemblyReference.cache
+D:\Infinite\Training\CSharp\Day4\Donet_Day4\Donet_Day4\obj\Debug\Donet_Day4.csproj.CoreCompileInputs.cache

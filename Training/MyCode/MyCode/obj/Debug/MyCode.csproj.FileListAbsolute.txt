@@ -1,0 +1,7 @@
+D:\Infinite\Training\MyCode\MyCode\bin\Debug\MyCode.exe.config
+D:\Infinite\Training\MyCode\MyCode\bin\Debug\MyCode.exe
+D:\Infinite\Training\MyCode\MyCode\bin\Debug\MyCode.pdb
+D:\Infinite\Training\MyCode\MyCode\obj\Debug\MyCode.csproj.AssemblyReference.cache
+D:\Infinite\Training\MyCode\MyCode\obj\Debug\MyCode.csproj.CoreCompileInputs.cache
+D:\Infinite\Training\MyCode\MyCode\obj\Debug\MyCode.exe
+D:\Infinite\Training\MyCode\MyCode\obj\Debug\MyCode.pdb
