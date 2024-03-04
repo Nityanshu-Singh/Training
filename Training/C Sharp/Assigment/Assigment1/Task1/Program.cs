@@ -129,7 +129,7 @@ namespace Task1
             }
             else
             {
-                Console.WriteLine($"The sum pf the two integers is:{sum}");
+                Console.WriteLine($"The sum of the two integers is:{sum}");
             }
             Console.ReadLine();
         }
@@ -263,7 +263,7 @@ namespace Task1
 
             {
 
-                Console.Write(marks[i] + " ");
+                Console.WriteLine(marks[i] + " ");
 
             }
 
@@ -323,7 +323,7 @@ namespace Task1
 
             {
 
-                Console.Write(c[i]);
+                Console.WriteLine(c[i]);
 
             }
 
@@ -337,7 +337,7 @@ namespace Task1
 
             {
 
-                Console.Write(s[i] + " ");
+                Console.WriteLine(s[i] + " ");
 
             }
 

@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program1
+namespace Assignment2
 {
     class Program
     {
-     
-            internal class Accounts
+        internal class Accounts
         {
             public int AccountNo;
             public string CustomerName;
@@ -27,7 +26,7 @@ namespace Program1
             }
 
 
-            public void show()
+            public void Banking_Details()
             {
                 Console.WriteLine("Enter the Account No:");
                 AccountNo = int.Parse(Console.ReadLine());
@@ -35,7 +34,7 @@ namespace Program1
                 Console.WriteLine("Enter Customer Name:");
                 CustomerName = (Console.ReadLine());
 
-                Console.WriteLine("Enter Account Type: ");
+                Console.WriteLine("Enter Account Type: Saving/Current");
                 AccountType = (Console.ReadLine());
 
                 Console.WriteLine("Enter Transaction Type (d > deposit / w > withdrawal):");
@@ -82,7 +81,7 @@ namespace Program1
                 }
             }
 
-            void showData()
+            void Final_Balance()
             {
                 Console.WriteLine("Account No: {0} , Customer Name: {1} , Account type: {2} , Transaction Type: {3} , Amount: {4} , Balance: {5} ", AccountNo, CustomerName, AccountType, TransactionType, Amount, Balance);
             }
@@ -93,12 +92,12 @@ namespace Program1
             static void Main(string[] args)
             {
                 Accounts acc = new Accounts();
-                acc.show();
+                acc.Banking_Details();
                 acc.updateBalance();
-                acc.showData();
+                acc.Final_Balance();
                 Console.ReadLine();
 
             }
         }
     }
-    }
+}

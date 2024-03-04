@@ -1,7 +1,0 @@
-D:\Infinite\Training\Assigment\Assigment2\Program1\Program1\bin\Debug\Program1.exe.config
-D:\Infinite\Training\Assigment\Assigment2\Program1\Program1\bin\Debug\Program1.exe
-D:\Infinite\Training\Assigment\Assigment2\Program1\Program1\bin\Debug\Program1.pdb
-D:\Infinite\Training\Assigment\Assigment2\Program1\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
-D:\Infinite\Training\Assigment\Assigment2\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
-D:\Infinite\Training\Assigment\Assigment2\Program1\Program1\obj\Debug\Program1.exe
-D:\Infinite\Training\Assigment\Assigment2\Program1\Program1\obj\Debug\Program1.pdb

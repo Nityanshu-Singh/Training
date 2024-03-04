@@ -1,0 +1,7 @@
+D:\Infinite\Training\C Sharp\Assigment\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Infinite\Training\C Sharp\Assigment\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\Infinite\Training\C Sharp\Assigment\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\Infinite\Training\C Sharp\Assigment\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\Infinite\Training\C Sharp\Assigment\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\Infinite\Training\C Sharp\Assigment\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Infinite\Training\C Sharp\Assigment\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
