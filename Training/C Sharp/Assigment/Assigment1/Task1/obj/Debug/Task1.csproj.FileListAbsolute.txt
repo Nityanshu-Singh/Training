@@ -1,0 +1,14 @@
+C:\Users\nityanshus\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\nityanshus\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\nityanshus\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\nityanshus\source\repos\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\nityanshus\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\nityanshus\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\nityanshus\source\repos\Task1\Task1\obj\Debug\Task1.pdb
+D:\Infinite\Training\Assigment\Assigment1\Task1\bin\Debug\Task1.exe.config
+D:\Infinite\Training\Assigment\Assigment1\Task1\bin\Debug\Task1.exe
+D:\Infinite\Training\Assigment\Assigment1\Task1\bin\Debug\Task1.pdb
+D:\Infinite\Training\Assigment\Assigment1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Infinite\Training\Assigment\Assigment1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Infinite\Training\Assigment\Assigment1\Task1\obj\Debug\Task1.exe
+D:\Infinite\Training\Assigment\Assigment1\Task1\obj\Debug\Task1.pdb
