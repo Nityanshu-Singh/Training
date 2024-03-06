@@ -1,0 +1,7 @@
+D:\Infinite\Training\C Sharp\Assessment\Assessment2\Assessment2\bin\Debug\Assessment2.exe.config
+D:\Infinite\Training\C Sharp\Assessment\Assessment2\Assessment2\bin\Debug\Assessment2.exe
+D:\Infinite\Training\C Sharp\Assessment\Assessment2\Assessment2\bin\Debug\Assessment2.pdb
+D:\Infinite\Training\C Sharp\Assessment\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.AssemblyReference.cache
+D:\Infinite\Training\C Sharp\Assessment\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
+D:\Infinite\Training\C Sharp\Assessment\Assessment2\Assessment2\obj\Debug\Assessment2.exe
+D:\Infinite\Training\C Sharp\Assessment\Assessment2\Assessment2\obj\Debug\Assessment2.pdb
