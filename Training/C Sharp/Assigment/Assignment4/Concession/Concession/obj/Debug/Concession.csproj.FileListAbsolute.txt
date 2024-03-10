@@ -1,0 +1,2 @@
+D:\Infinite\Training\C Sharp\Assigment\Assignment4\Concession\Concession\obj\Debug\Concession.csproj.AssemblyReference.cache
+D:\Infinite\Training\C Sharp\Assigment\Assignment4\Concession\Concession\obj\Debug\Concession.csproj.CoreCompileInputs.cache
