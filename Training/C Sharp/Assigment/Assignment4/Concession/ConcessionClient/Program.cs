@@ -14,8 +14,7 @@ namespace ConcessionClient
         static string Name;
         static int Age;
 
-        public string _Name { get; set; }
-        
+        public string _Name { get; set; } 
 
         public int _Age { get; set; }
         

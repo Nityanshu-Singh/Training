@@ -1,7 +1,0 @@
-D:\Infinite\MyPractice\Delegates1\Delegates1\bin\Debug\Delegates1.exe.config
-D:\Infinite\MyPractice\Delegates1\Delegates1\bin\Debug\Delegates1.exe
-D:\Infinite\MyPractice\Delegates1\Delegates1\bin\Debug\Delegates1.pdb
-D:\Infinite\MyPractice\Delegates1\Delegates1\obj\Debug\Delegates1.csproj.AssemblyReference.cache
-D:\Infinite\MyPractice\Delegates1\Delegates1\obj\Debug\Delegates1.csproj.CoreCompileInputs.cache
-D:\Infinite\MyPractice\Delegates1\Delegates1\obj\Debug\Delegates1.exe
-D:\Infinite\MyPractice\Delegates1\Delegates1\obj\Debug\Delegates1.pdb
