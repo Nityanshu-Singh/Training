@@ -92,8 +92,8 @@ from Employee where Salary IS NULL;
  
 -- Create StudentDetails Table
 CREATE TABLE StudentDetails
-(RegisterNo INT PRIMARY KEY,Name VARCHAR(255),Age INT,Qualification VARCHAR(255),
-MobileNo BIGINT,Mail_id VARCHAR(255),Locationn VARCHAR(255),Gender CHAR(1))
+(RegisterNo INT Primary key,Name Varchar(20),Age INT,Qualification VARCHAR(20),
+MobileNo numeric(12),Mail_id VARCHAR(50),Location VARCHAR(15),Gender varchar(1))
  
 -- Insert data into StudentDetails Table
 Insert into StudentDetails values
