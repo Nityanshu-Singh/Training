@@ -121,3 +121,20 @@ select Emp_Name, Salary from Employee where Salary Not Between 1500 and 2850
 
 select Mgr_id, count(Emp_no) as "Total Employees" from Employee
 group by Mgr_id  having count(Emp_no) > 2;
+
+select Emp_name , job, Salary from Employee
+where salary <any (select salary from Employee where job ='Manager' ) and job !='Manager'
+
+-- update all employees salary whose salary is the minimum in that department
+
+-- using tsql increase the salary by 100/- for all employess who earn less than emp_no 7566
+
+declare @sal int
+set @sal=(select salary from Employee where Emp_no=7698)
+ 
+select (Emp_no,Emp_name
+case
+when Salary<=@sal then Salary=100
+else 
+salary
+end "New Salary" from Employee;
