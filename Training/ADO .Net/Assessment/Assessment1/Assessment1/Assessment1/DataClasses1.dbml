@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EmployeeManagement" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ICS-LT-F3TJZD3\SQLEXPRESS;Initial Catalog=EmployeeManagement;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="Assessment1.Properties.Settings" SettingsPropertyName="EmployeeManagementConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Employee_Details" Member="Employee_Details">
+    <Type Name="Employee_Detail">
+      <Column Name="EmpNo" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="EmpName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="EmpSal" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="Emptype" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.AddEmployee" Method="AddEmployee">
+    <Parameter Name="empname" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="empsal" Type="System.Decimal" DbType="Decimal(10,2)" />
+    <Parameter Name="emptype" Type="System.Char" DbType="Char(1)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
